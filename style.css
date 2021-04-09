@@ -41,6 +41,7 @@ body{
 .icon-container{
     display: flex;
     margin: 5px;
+    width: fit-content;
     flex-direction: row;
     align-items: center;
     background-color:hsl(300, 24%, 96%);
